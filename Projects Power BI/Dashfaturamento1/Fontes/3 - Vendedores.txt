@@ -1,0 +1,9 @@
+ID Vendedor;Vendedor;Gestor
+1;Flávia;André
+2;Amanda;André
+3;Guilherme;André
+4;Bruno;André
+5;Daniele;Beatriz
+6;Felipe;Beatriz
+7;Camila;Beatriz
+8;Patrícia;Beatriz

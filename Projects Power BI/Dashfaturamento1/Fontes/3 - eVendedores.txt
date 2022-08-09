@@ -1,0 +1,9 @@
+ID Vendedor;Vendedor;Gestor;Imagem
+1;Flávia;André;https://th.bing.com/th/id/OIP.aARGbrOO4p2Xn2Vo8TPnLgHaLH?pid=ImgDet&w=600&h=900&rs=1
+2;Amanda;André;https://image.freepik.com/fotos-gratis/rosto-feminino-lindo-olhar-mulher_1301-3161.jpg
+3;Guilherme;André;https://portal-vendedor10.curriculum.com.br/wp-content/uploads/2016/06/prontablog01.jpg
+4;Bruno;André;https://www.amenclinics.com/wp-content/uploads/2016/01/How-SPECT-Imaging-Saved-Bills-Life.png
+5;Daniele;Beatriz;https://thumbs.dreamstime.com/b/mulher-nova-bonita-4322055.jpg
+6;Felipe;Beatriz;https://www.supermarkt-inside.de/wp-content/uploads/2020/03/Foto.CES_-e1584714560119.jpg
+7;Camila;Beatriz;https://www.eacprime.com/wp-content/uploads/2020/03/trabalho-feminino-no-exterior.png
+8;Patrícia;Beatriz;http://blogdalingerie.com.br/wp-content/uploads/2014/11/03-escolher-melhores-vendedores.jpg
